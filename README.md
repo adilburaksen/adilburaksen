@@ -17,6 +17,13 @@
 - 💬 Ask me about **Application Security**, **API Security**, and **Penetration Testing**
 - 🎮 Active on ![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=flat&logo=hackthebox&logoColor=9FEF00) and ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white) solving security labs
 
+## 🎓 Certifications
+- ![CEH](https://img.shields.io/badge/CEH-Master-red?style=for-the-badge&logo=certified-ethical-hacker&logoColor=white) Certified Ethical Hacker Master
+- ![CASP](https://img.shields.io/badge/CASP-API%20Security-blue?style=for-the-badge) Certified API Security Professional
+- ![CDP](https://img.shields.io/badge/CDP-DevSecOps-green?style=for-the-badge) Certified DevSecOps Professional
+- ![ISO](https://img.shields.io/badge/ISO%2027001-Lead%20Auditor-yellow?style=for-the-badge&logo=iso&logoColor=white) Information Security Certification
+- ![CNSS](https://img.shields.io/badge/ICSI%20CNSS-Network%20Security-purple?style=for-the-badge) Certified Network Security Specialist
+
 ## 🛠️ Technologies & Tools
 
 ### Security & Development
