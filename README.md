@@ -10,7 +10,7 @@
 - 🔭 I'm currently working on **Full Stack Development**
 - 🌱 I'm currently learning **OSCP & Penetration Testing**
 - 💬 Ask me about **Web Security** and **Full Stack Development**
-- 📫 How to reach me: [adilburaksen@gmail.com](mailto:adilburaksen@gmail.com)
+- 📫 How to reach me: [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/adilburaksen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adilburaksen/)
 - ⚡ Fun fact: I love participating in CTF competitions!
 
 ## 🛠️ Technologies & Tools
