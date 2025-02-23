@@ -19,11 +19,35 @@
 ## 🛠️ Technologies & Tools
 
 ### 🔐 Security Tools
+
+#### 🔍 Dynamic Analysis (DAST)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-9C27B0?style=for-the-badge&logo=owasp&logoColor=white)
+![Acunetix](https://img.shields.io/badge/Acunetix-0A1B2B?style=for-the-badge&logo=acunetix&logoColor=white)
+
+#### 📊 Static Analysis (SAST)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Checkmarx](https://img.shields.io/badge/Checkmarx-54B848?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Fortify](https://img.shields.io/badge/Fortify-FFB71B?style=for-the-badge&logo=fortify&logoColor=black)
+
+#### 🔄 Interactive Analysis (IAST)
+![Contrast](https://img.shields.io/badge/Contrast-52B0E7?style=for-the-badge&logo=contrast&logoColor=white)
+![Seeker](https://img.shields.io/badge/Seeker-FF6B6B?style=for-the-badge&logo=seeker&logoColor=white)
+
+#### 🌐 Network Security
 ![Nmap](https://img.shields.io/badge/Nmap-0040FF?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-3E7B90?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-3E7B90?style=for-the-badge&logo=metasploit&logoColor=white)
+
+#### 🔬 Manual Testing
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Fiddler](https://img.shields.io/badge/Fiddler-5CE500?style=for-the-badge&logo=fiddler&logoColor=white)
+![DevTools](https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+#### 🛡️ Security Operations
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00B4E2?style=for-the-badge&logo=nessus&logoColor=white)
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
