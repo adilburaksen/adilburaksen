@@ -29,10 +29,7 @@
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Checkmarx](https://img.shields.io/badge/Checkmarx-54B848?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![Fortify](https://img.shields.io/badge/Fortify-FFB71B?style=for-the-badge&logo=fortify&logoColor=black)
-
-#### 🔄 Interactive Analysis (IAST)
-![Contrast](https://img.shields.io/badge/Contrast-52B0E7?style=for-the-badge&logo=contrast&logoColor=white)
-![Seeker](https://img.shields.io/badge/Seeker-FF6B6B?style=for-the-badge&logo=seeker&logoColor=white)
+![Coverity](https://img.shields.io/badge/Coverity-DA1F3D?style=for-the-badge&logo=coverity&logoColor=white)
 
 #### 🌐 Network Security
 ![Nmap](https://img.shields.io/badge/Nmap-0040FF?style=for-the-badge&logo=nmap&logoColor=white)
@@ -40,14 +37,15 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-3E7B90?style=for-the-badge&logo=metasploit&logoColor=white)
 
 #### 🔬 Manual Testing
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Fiddler](https://img.shields.io/badge/Fiddler-5CE500?style=for-the-badge&logo=fiddler&logoColor=white)
 ![DevTools](https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 #### 🛡️ Security Operations
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-00B4E2?style=for-the-badge&logo=nessus&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-91C03F?style=for-the-badge&logo=openvas&logoColor=white)
+![Qualys](https://img.shields.io/badge/Qualys-ED1C24?style=for-the-badge&logo=qualys&logoColor=white)
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
