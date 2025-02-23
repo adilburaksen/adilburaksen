@@ -55,11 +55,6 @@
 ## 📈 Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adilburaksen&theme=react-dark)
 
-## 📝 Latest Blog Posts
-- [API Security Best Practices](https://hackwith.me/api-security)
-- [Pentesting with Burp Suite - Advanced Techniques](https://hackwith.me/burp-suite-advanced)
-- [From Developer to Ethical Hacker: My Journey](https://hackwith.me/dev-to-hacker)
-
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adilburaksen/)
 [![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/adilburaksen)
