@@ -1,39 +1,47 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7DF1E&lines=Full+Stack+Developer;Security+Enthusiast;Pentester;OSCP+Student)](https://github.com/adilburaksen)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7DF1E&lines=Cybersecurity+Engineer;API+Security+Expert;Penetration+Tester;Bug+Bounty+Hunter;Full+Stack+Security)](https://github.com/adilburaksen)
 
-# 👋 Hi there, I'm Adil Burak ŞEN!
+# Hi there, I'm Adil Burak ŞEN! 👋
 
 ![](https://komarev.com/ghpvc/?username=adilburaksen&color=blue&style=flat)
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+🔒 **Senior Cybersecurity Engineer** with 7+ years of experience in **Application Security, API Security, and Penetration Testing**.  
+🚀 Specialized in securing applications, identifying vulnerabilities, and enhancing security postures for organizations.  
+🎯 Top 100 in Bugcrowd (2018) | Security Researcher | CTF Player  
+📍 Based in Istanbul, Türkiye | Working internationally  
 
-## 🚀 About Me
-- 🔭 I'm currently working on **Full Stack Development**
-- 🌱 I'm currently learning **OSCP & Penetration Testing**
-- 💬 Ask me about **Web Security** and **Full Stack Development**
-- 📫 How to reach me: [![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=x&logoColor=white)](https://twitter.com/adilburaksen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adilburaksen/)
-- ⚡ Fun fact: I love participating in CTF competitions!
+## 💡 Current Focus
+- 🛡️ API Security & Secure SDLC
+- 🔍 Offensive Security (OSCP in progress)
+- 🖥️ Full Stack Security & DevSecOps
+- 🎯 Certified API Security Professional (CASP) – Practical DevSecOps (2024)
+- 💬 Ask me about **Application Security**, **API Security**, and **Penetration Testing**
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-9C27B0?style=for-the-badge&logo=owasp&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0040FF?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-3E7B90?style=for-the-badge&logo=metasploit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adilburaksen&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adilburaksen&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilburaksen&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilburaksen&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-## 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adilburaksen&theme=github-dark)
+## 📈 Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adilburaksen&theme=react-dark)
+
+## 📝 Latest Blog Posts
+- [API Security Best Practices](https://hackwith.me/api-security)
+- [Pentesting with Burp Suite - Advanced Techniques](https://hackwith.me/burp-suite-advanced)
+- [From Developer to Ethical Hacker: My Journey](https://hackwith.me/dev-to-hacker)
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adilburaksen/)
