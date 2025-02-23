@@ -10,7 +10,7 @@
 - 🔭 I'm currently working on **Full Stack Development**
 - 🌱 I'm currently learning **OSCP & Penetration Testing**
 - 💬 Ask me about **Web Security** and **Full Stack Development**
-- 📫 How to reach me: [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/adilburaksen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adilburaksen/)
+- 📫 How to reach me: [![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=x&logoColor=white)](https://twitter.com/adilburaksen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adilburaksen/)
 - ⚡ Fun fact: I love participating in CTF competitions!
 
 ## 🛠️ Technologies & Tools
@@ -37,7 +37,7 @@
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adilburaksen/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adilburaksen)
+[![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/adilburaksen)
 [![Website](https://img.shields.io/badge/Website-hackwith.me-orange?style=for-the-badge)](https://hackwith.me)
 
 ---
