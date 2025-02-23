@@ -23,6 +23,7 @@
 - ![CDP](https://img.shields.io/badge/CDP-DevSecOps-green?style=for-the-badge) Certified DevSecOps Professional
 - ![ISO](https://img.shields.io/badge/ISO%2027001-Lead%20Auditor-yellow?style=for-the-badge&logo=iso&logoColor=white) Information Security Certification
 - ![CNSS](https://img.shields.io/badge/ICSI%20CNSS-Network%20Security-purple?style=for-the-badge) Certified Network Security Specialist
+- ![OSCP](https://img.shields.io/badge/OSCP-In%20Progress-orange?style=for-the-badge&logo=offensive-security&logoColor=white) Offensive Security Certified Professional
 
 ## 🛠️ Technologies & Tools
 
