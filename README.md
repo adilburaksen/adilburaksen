@@ -15,6 +15,7 @@
 - 🖥️ Full Stack Security & DevSecOps
 - 🎯 Certified API Security Professional (CASP) – Practical DevSecOps (2024)
 - 💬 Ask me about **Application Security**, **API Security**, and **Penetration Testing**
+- 🎮 Active on ![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=flat&logo=hackthebox&logoColor=9FEF00) and ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white) solving security labs
 
 ## 🛠️ Technologies & Tools
 
