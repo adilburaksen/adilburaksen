@@ -2,12 +2,17 @@
 
 # Hi there, I'm Adil Burak ŞEN! 👋
 
-![](https://komarev.com/ghpvc/?username=adilburaksen&color=blue&style=flat)
+![](https://komarev.com/ghpvc/?username=adilburaksen&style=for-the-badge&color=blue&label=PROFILE+VIEWS)
 
 🔒 **Senior Cybersecurity Engineer** with 7+ years of experience in **Application Security, API Security, and Penetration Testing**.  
 🚀 Specialized in securing applications, identifying vulnerabilities, and enhancing security postures for organizations.  
 🎯 Top 100 in Bugcrowd (2018) | Security Researcher | CTF Player  
 📍 Based in Istanbul, Türkiye | Working internationally  
+
+## 🏆 GitHub Achievements
+![Arctic Code Vault Contributor](https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png)
+![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
+![Security Bug Hunter](https://github.githubassets.com/images/modules/profile/achievements/security-bug-bounty-hunter-default.png)
 
 ## 💡 Current Focus
 - 🛡️ API Security & Secure SDLC
