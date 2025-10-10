@@ -11,7 +11,7 @@
 
 ## 💡 Current Focus
 - 🛡️ API Security & Secure SDLC
-- 🔍 Offensive Security (OSCP in progress)
+- 🔍 Offensive Security
 - 🖥️ Full Stack Security & DevSecOps
 - 🎯 Certified API Security Professional (CASP) – Practical DevSecOps (2024)
 - 💬 Ask me about **Application Security**, **API Security**, and **Penetration Testing**
