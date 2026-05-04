@@ -5,23 +5,23 @@ Istanbul, Turkey · [hackwith.me](https://hackwith.me/) · [linkedin.com/in/adil
 
 ---
 
-OSCP+-certified Application Security & Red Team Engineer with 8+ years across banking, telecom, aviation, insurance, and e-commerce. Bugcrowd Top 100 researcher with 400+ reports submitted (150+ validated). Hands-on across penetration testing, API security, threat modeling, secure SDLC, DevSecOps automation, and AI/LLM security.
+OSCP+-certified Application Security & Red Team Engineer with 8+ years across banking, telecom, aviation, insurance, and e-commerce. Bugcrowd Top 100 (2018) with 400+ reports submitted, 150+ validated. Hands-on across penetration testing, API security, threat modeling, secure SDLC, DevSecOps automation, and AI/LLM security.
 
 ## Currently
 
-🔎 **Open to Senior AppSec / Penetration Tester roles** — Europe, UK, Remote
+Open to Senior AppSec / Penetration Tester roles — Europe, UK, Remote.
 
-📍 Currently at Abu Dhabi Commercial Bank (ADCB) — application security & red team for cloud-native financial services
+Most recently at Abu Dhabi Commercial Bank (ADCB), leading application security and red team engagements for cloud-native financial services.
 
 ## Selected Work
 
-🔓 **CVE-2026-31974** — SSRF in OpenProject (CVSS Medium). Coordinated disclosure; fix merged upstream in v17.2.0.
+**CVE-2026-31974** — SSRF in OpenProject. Coordinated disclosure; fix merged upstream in v17.2.0.
 
-⚡ **[CVE-2025-25257-Exploit-Tool](https://github.com/adilburaksen/CVE-2025-25257-Exploit-Tool)** — Public exploit tool for pre-auth SQL injection in Fortinet FortiWeb (CVSS 9.8).
+**[CVE-2025-25257-Exploit-Tool](https://github.com/adilburaksen/CVE-2025-25257-Exploit-Tool)** — Public exploit tool for pre-auth SQL injection in Fortinet FortiWeb (CVSS 9.8).
 
-🤖 **AI-Powered Bug Hunting Framework** — Multi-LLM orchestration pipeline: recon → vulnerability analysis → PoC generation across web, API, and mobile targets. Active in live bug bounty programs.
+**AI-Powered Bug Hunting Framework** — Multi-LLM orchestration pipeline: recon → vulnerability analysis → PoC generation across web, API, and mobile targets. Active in live bug bounty programs.
 
-🔬 **AI-Assisted Cryptographic Research** (Fireblocks MPC-Lib, 2026) — LLM-augmented audit of a C++ MPC library; identified EdDSA nonce reuse (P1/Critical) enabling private key-share recovery.
+**AI-Assisted Cryptographic Research** (Fireblocks MPC-Lib, 2026) — LLM-augmented audit of a C++ MPC library; identified EdDSA nonce reuse (P1/Critical) enabling private key-share recovery.
 
 ## Focus Areas
 
@@ -55,12 +55,12 @@ OSCP+-certified Application Security & Red Team Engineer with 8+ years across ba
 
 ## Bug Bounty & Research
 
-**Bugcrowd Top 100** · 400+ reports, 150+ validated · Active across Bugcrowd, YesWeHack, Immunefi, Intigriti, and Synack Red Team since 2018.
+Bugcrowd Top 100 (2018) · 400+ reports submitted, 150+ validated · Active across Bugcrowd, YesWeHack, Immunefi, Intigriti, and Synack Red Team.
 
 CTF: HackTheBox, TryHackMe, PentesterLab.
 
 ## Get in Touch
 
-📧 adilburaksen@gmail.com
+📧 adilburaksen@proton.me
 🌐 [hackwith.me](https://hackwith.me/)
 💼 [linkedin.com/in/adilburaksen](https://linkedin.com/in/adilburaksen)
