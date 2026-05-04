@@ -1,7 +1,9 @@
 # Adil Burak Şen
 
 **Senior Application Security & Red Team Engineer**
-Istanbul, Turkey · [hackwith.me](https://hackwith.me/) · [linkedin.com/in/adilburaksen](https://linkedin.com/in/adilburaksen)
+Istanbul, Turkey
+
+[hackwith.me](https://hackwith.me/) | [linkedin.com/in/adilburaksen](https://linkedin.com/in/adilburaksen) | [github.com/adilburaksen](https://github.com/adilburaksen)
 
 ---
 
