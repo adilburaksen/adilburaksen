@@ -21,7 +21,7 @@ Most recently at Abu Dhabi Commercial Bank (ADCB), leading application security 
 
 **AI-Powered Bug Hunting Framework** — Multi-LLM orchestration pipeline: recon → vulnerability analysis → PoC generation across web, API, and mobile targets. Active in live bug bounty programs.
 
-**AI-Assisted Cryptographic Research** (Fireblocks MPC-Lib, 2026) — LLM-augmented audit of a C++ MPC library; identified EdDSA nonce reuse (P1/Critical) enabling private key-share recovery.
+**AI-Assisted Cryptographic Research** (Bugcrowd Managed Program, 2026) — LLM-augmented audit of a production C++ MPC cryptography library; identified EdDSA nonce reuse (P1/Critical) enabling private key-share recovery.
 
 ## Focus Areas
 
