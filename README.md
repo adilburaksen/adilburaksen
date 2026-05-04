@@ -1,9 +1,7 @@
 # Adil Burak Şen
 
 **Senior Application Security & Red Team Engineer**
-Istanbul, Turkey
-
-[hackwith.me](https://hackwith.me/) | [linkedin.com/in/adilburaksen](https://linkedin.com/in/adilburaksen) | [github.com/adilburaksen](https://github.com/adilburaksen)
+Istanbul, Turkey · [hackwith.me](https://hackwith.me/) · [linkedin.com/in/adilburaksen](https://linkedin.com/in/adilburaksen)
 
 ---
 
@@ -17,7 +15,7 @@ Most recently at Abu Dhabi Commercial Bank (ADCB), leading application security 
 
 ## Selected Work
 
-**CVE-2026-31974** — SSRF in OpenProject. Coordinated disclosure; fix merged upstream in v17.2.0. [Advisory →](https://github.com/opf/openproject/security/advisories/GHSA-9wr7-j98g-2jh3)
+**[CVE-2026-31974](https://github.com/opf/openproject/security/advisories/GHSA-9wr7-j98g-2jh3)** — SSRF in OpenProject. Coordinated disclosure; fix merged upstream in v17.2.0.
 
 **[CVE-2025-25257-Exploit-Tool](https://github.com/adilburaksen/CVE-2025-25257-Exploit-Tool)** — Public exploit tool for pre-auth SQL injection in Fortinet FortiWeb (CVSS 9.8).
 
